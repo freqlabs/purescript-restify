@@ -14,11 +14,11 @@ npm install --save restify
 
 ## TODO:
 
-[ ] Wrappers for remaining Request methods
-[ ] Wrappers for remaining Server methods
-[ ] Tests
-[ ] Examples
-[ ] Plugins
+- [ ] Wrappers for remaining Request methods
+- [ ] Wrappers for remaining Server methods
+- [ ] Tests
+- [ ] Examples
+- [ ] Plugins
 
 ## See Also
 
